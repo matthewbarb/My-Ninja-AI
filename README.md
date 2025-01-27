@@ -1,10 +1,11 @@
-# Mastra
+# My Ninja AI
+https://myninjaai.net/
 
 <img align="cener" alt="Project Status: Alpha" src="https://img.shields.io/badge/Status-Alpha-red">
 
-Mastra is an opinionated Typescript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
+My Ninja AI is an opinionated Typescript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
 
-The main Mastra features are:
+The main My Ninja AI features are:
 
 | Features                                                      | Description                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,8 +38,8 @@ If you don't have an account with these providers, you can sign up and get an AP
 As a first step, create a project directory and navigate into it:
 
 ```bash copy
-mkdir hello-mastra
-cd hello-mastra
+mkdir hello-Ninja
+cd hello-Ninja
 ```
 
 Next, initialize a TypeScript project using npm:
@@ -46,7 +47,7 @@ Next, initialize a TypeScript project using npm:
 ```bash copy npm2yarn
 npm init -y
 npm install typescript tsx @types/node --save-dev
-npm install @mastra/core@alpha zod
+npm install @mayninjaai/core@alpha zod
 ```
 
 ### Add an index.ts file
@@ -101,6 +102,6 @@ Information about the project setup can be found in the [development documentati
 
 ## Support
 
-We have an [open community Discord](https://discord.gg/BTYqqHKUrf). Come and say hello and let us know if you have any questions or need any help getting things running.
+We have an [open community X](https://x.com/myninja_ai?s=21). Come and say hello and let us know if you have any questions or need any help getting things running.
 
-It's also super helpful if you leave the project a star here at the [top of the page](https://github.com/mastra-ai/mastra)
+It's also super helpful if you leave the project a star here at the [top of the page]
